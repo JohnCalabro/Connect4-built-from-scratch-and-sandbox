@@ -1,0 +1,66 @@
+
+.top{
+  border: 1px dotted black;
+  width: 50px;
+  height: 50px;
+}
+
+td {
+  
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+}
+
+.test{
+  border: 2px solid blue;
+}
+
+/* .last{
+  display: flex;
+  border: 2px solid green;
+  justify-content: center;
+  
+} */
+/* width = 7
+
+height = 6 */
+.pieceP1{
+  /* display: flex; */
+  margin: 5px;
+    width: 80%;
+    height: 80%;
+    background-color: blue;
+    border-radius: 50%;
+ 
+}
+
+.pieceP2{
+  /* display: flex; */
+  margin: 5px;
+    width: 80%;
+    height: 80%;
+    background-color: red;
+    border-radius: 50%;
+ 
+}
+
+
+.testDivP1{
+  background-color: blue;
+  border: 10px, solid, black;
+  border-radius: 50%;
+  display: block;
+  height: 40px;
+  width: 40px
+}
+
+.testDivP2{
+  background-color: red;
+  border: 10px, solid, black;
+  border-radius: 50%;
+  display: block;
+  height: 40px;
+  width: 40px
+}
+
